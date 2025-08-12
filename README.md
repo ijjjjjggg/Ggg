@@ -1,4 +1,4 @@
-# Ggg
+
 -- Lead Hub (Auto Block & ESP Script)
 -- By TripleX's Hub
 
